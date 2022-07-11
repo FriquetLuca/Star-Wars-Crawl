@@ -26,7 +26,7 @@ html, body {
   transform: perspective(450px) rotateX(20deg);
 }
 .star-wars-crawl {
-  top: -3000px;
+  top: -2650px;
   bottom: 0;
   left: 0;
   right: 0;
